@@ -1,7 +1,7 @@
 {
   "name": "react-use-railway",
   "version": "0.0.8",
-  "description": "useReducer with effects, the elmish way",
+  "description": "useReducer with effects",
   "sideEffects": false,
   "types": "./dist/dts/index.d.ts",
   "main": "./dist/cjs/index.js",
@@ -32,7 +32,7 @@
     "effect",
     "useReducer",
     "useEffect",
-    "elmish"
+    "result"
   ],
   "files": [
     "dist",
@@ -75,6 +75,6 @@
     "atLeast": 100
   },
   "dependencies": {
-    "use-railway": "^0.0.8"
+    "use-railway": "^0.0.9"
   }
 }
