@@ -75,6 +75,6 @@
     "atLeast": 100
   },
   "dependencies": {
-    "use-railway": "^0.0.9"
+    "use-railway": "^0.0.10"
   }
 }
